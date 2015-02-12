@@ -3,7 +3,7 @@ layout: post
 title: Using markdown language in Jekyll
 ---
 
-*Markup language* is not new to me. I usually type in plain html but just now I learned I can also use *markdown* language for that, which makes editing and writing text a lot cleaner. So let's make life easier with this new markdown that Jekyll supports. 
+*Markup language* is not new to me. I usually type in plain html but just now I learned I can also use *markdown* language for editing posts in Jekyll, which makes editing and writing text a lot cleaner. So let's make life easier with this new markdown that Jekyll supports. 
 
 ![Read the Manual [Photo Credits] (https://www.flickr.com/photos/paulcross/12034282963)](/images/read-the-manual.jpg)
 
