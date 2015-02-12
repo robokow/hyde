@@ -23,24 +23,24 @@ paginate:         5
 # version:          2.1.0
 
 # github:	
-#  repo:           https://github.com/robokow/hyde
+#  repo:           https://github.com/robokow/robokow.github.io
 
 # Site owner
 owner:
-  name: Your Name
+  name: Robino
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
-  twitter: #robokow
+  twitter: robokow
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
-  flickr: #robino
+  flickr: robino
   tumblr: #username
   google:
-    plus: #username
+    plus: +robinorobokow
     analytics:
     verify:
     ad-client:
