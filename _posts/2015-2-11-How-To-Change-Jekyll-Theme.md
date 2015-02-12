@@ -16,7 +16,7 @@ There is all kinds of nice Jekyll themes, most of them clean, minimal and functi
 
 <h2>Make a new installation</h2>
 To use themes you should create a new installation based on that theme and then merge or migrate your posts and other custom stuff from the old to the new installation.
-Fork your new theme into your Git repository, rename it (click on settings) and name it yourusername.github.io. Then clone it. This [little video-image](https://raw.githubusercontent.com/robokow/robokow-old-github/master/images/step1.gif) explains it all.
+Fork your new theme into your Git repository, rename it (click on settings) and name it yourusername.github.io. Then clone it. This <a href="https://raw.githubusercontent.com/robokow/robokow-old-github/master/images/step1.gif">little video-image</a> explains it all.
 
 <h3>Following steps:</h3>
 <ul><li>Removed content in the post directory and copied the _posts/ from the old installation into new directory. Also copy stuff that's in _images/ if any.
