@@ -24,6 +24,9 @@ Fork your new theme into your Git repository, rename it (click on settings) and 
 <li>Edit the new _config.yml that came with your new theme to suite your needs</li>
 </ul>
 
+<h3>Troubleshooting</h3>
+For some reason the posts didn't show up initially. That was a bummer. Why? I found out that it was because I had copied my backup files of the posts into the new folder as well. Due to this the posts didn't show up. Deleting the backup files did the trick.
+
 <!--
 <h2>Jekyll Bootstrap</h2>
 With Jekyll Bootstrap it's pretty straightforward to change your theme. All you need to do is <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">install it</a>. Dir into the installation and change the theme with this one simple command. 
