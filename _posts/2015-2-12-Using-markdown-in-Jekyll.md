@@ -7,10 +7,9 @@ title: Using markdown language in Jekyll
 
 ![Read the Manual [Photo Credits] (https://www.flickr.com/photos/paulcross/12034282963)](/images/read-the-manual.jpg)
 
-##rtfm
-I use it at Github as well from time to time. But it took a while to get my head around. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff?
+I use a form of markdown on Github as well. But it took quite a while to get my head around it. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff??
 
-So yeah I am rather lazy and more te type of person trying to do stuff first before reading manuals. If things than don't work I just find another way of doing stuff, only later to return to the same problem waiting to be solved. Maybe then I start reading the manual.
+So yeah I am rather lazy; I just do stuff first and only if things break I read the manual (oh sh*). Or I find another way of doing things, only later to return to the same problem that's still waiting to be solved. Maybe then, but only then I start reading the manual.
 
 ##Testing markdown
 But with time comes maturity and patience to actually read manuals. Hence I find myself reading a manual now about markdown and need some testing. That's why this post, which itself is written with markup, following [this manual](http://daringfireball.net/projects/markdown/). And hey, what does this make life easy! 
