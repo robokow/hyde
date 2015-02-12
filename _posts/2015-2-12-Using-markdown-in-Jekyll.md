@@ -3,18 +3,18 @@ layout: post
 title: Using markdown language in Jekyll
 ---
 
-*Markup language* is not new to me. I usually type in plain html but just now I learned I can also use markdown language for that, which makes editing and writing text a lot cleaner. So let's make life easier with this new *markdown* that Jekyll supports. 
+*Markup language* is not new to me. I usually type in plain html but just now I learned I can also use *markdown* language for that, which makes editing and writing text a lot cleaner. So let's make life easier with this new markdown that Jekyll supports. 
 
 ![Read the Manual [Photo Credits] (https://www.flickr.com/photos/paulcross/12034282963)](/images/read-the-manual.jpg)
 
-I use a form of markdown on Github as well. But it took quite a while to get my head around it. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff??
+I use a form of markdown on Github as well. But it took quite a while to get my head around it. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff*???*
 
 So yeah I am rather lazy; I just do stuff first and only if things break I read the manual (oh sh*). Or I find another way of doing things, only later to return to the same problem that's still waiting to be solved. Maybe then, but only then I start reading the manual.
 
 ##Testing markdown
 But with time comes maturity and patience to actually read manuals. Hence I find myself reading a manual now about markdown and need some testing. That's why this post, which itself is written with markup, following [this manual](http://daringfireball.net/projects/markdown/). And hey, what does this make life easy! 
 
-One of the first things that takes my mind apart is this markup umh markdown language stems from 2004! That's eleven years and I am just picking up on it now. Wtf.
+One of the first things that takes my mind apart is this markup/ markdown language stems from 2004! That's eleven years and I am just picking up on it now. Wtf.
 
 ###Blockquotes
 I like to use blockquotes a lot in my writings. It's good way to source to other person's writing, especially when things are said i a much better way than you could think of. And to use Blockquotes in Markup is really easy.
