@@ -20,11 +20,7 @@ One of the first things that takes my mind apart is this markup/ markdown langua
 I like to use blockquotes a lot in my writings. It's good way to source to other person's writing, especially when things are said i a much better way than you could think of. And to use Blockquotes in Markup is really easy.
 >Markdown allows you to be lazy and only put the > before the first line of a hard-wrapped paragraph
 
-And it evens has the possibility to place a quote inside a quote. Not that I have ever done that, but it's good to know it can be done
->Blockquotes can be nested by adding additional levels of >:
->>(i.e. a blockquote-in-a-blockquote) 
-
-This really saves me a lot of hassle of wrapping blockquotes around text. Or even worse: selecting text and clicking with mousebuttons.
+And it evens has the possibility to place a quote inside a quote. Not that I have ever done that, but it's good to know it can be done. All of this really saves me a lot of hassle of wrapping blockquotes around text. Or even worse: selecting text and clicking with mousebuttons.
 
 ###Lists
 A great way to offer content is by using lists. 
