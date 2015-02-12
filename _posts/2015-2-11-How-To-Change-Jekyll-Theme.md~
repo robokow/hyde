@@ -24,7 +24,7 @@ To use themes that are not included in Bootstrap (well, that's most of them) you
 
 <strong>Don't follow these instructions, they are a work in progress and probably not good</strong>
 
-Fork a new theme into your Git repository. Then clone it. I am choosing <a href="https://github.com/poole/hyde">Hyde</a> here, because that one goes well with Jekyll. Once done I took the following steps:
+Fork your new theme into your Git repository. Then clone it. I am choosing <a href="https://github.com/poole/hyde">Hyde</a> here, because that one goes well with Jekyll. Once done I took the following steps:
 
 <ul><li>Removed posts directory and Copied _posts from the old installation into the new directory. And delete any other posts that came along with the new theme.
 <li>Copy also the file about.md if you've changed that.</li> 
