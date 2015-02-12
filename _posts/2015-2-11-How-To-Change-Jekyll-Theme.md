@@ -3,7 +3,7 @@ layout: post
 title: How to change jekyll theme
 ---
 
-So you just installed Jekyll and got your blog running through the github pages. But how can you change the site's layout or theme? That's not straightforward to do. The general approach is to create a new installation, name that into username.github.io, copy your old posts and images into the new folders, and other custom stuff.
+So you just installed Jekyll and got your blog running through the github pages. But how can you change the site's layout or theme? The general approach is to create a new installation, name that into username.github.io, copy your old posts and images into the new folders, and other custom stuff.
 
 <h2>Jekyll themes</h2>
 There is all kinds of nice Jekyll themes, most of them clean, minimal and functional. Check for example <a href="http://jekyllthemes.org/">Jekyllthemes.org</a> for a quick overview of some templates. And there is even a lot more themes worth checking out and are not listed there. Check the long <a href="https://github.com/jekyll/jekyll/wiki/Themes">list of themes</a> on the Jekyll Wiki.
