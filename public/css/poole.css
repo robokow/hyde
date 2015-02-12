@@ -330,7 +330,9 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
+  border-bottom: 1px solid beige;
+  padding-bottom: 1em;
 }
 
 /* Blog post or page title */
@@ -356,7 +358,7 @@ tbody tr:nth-child(odd) th {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+/*  border-top: 1px solid #eee; robino */
 }
 .related-posts {
   padding-left: 0;
