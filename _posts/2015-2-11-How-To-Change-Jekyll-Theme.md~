@@ -16,14 +16,14 @@ There is all kinds of nice Jekyll themes, most of them clean, minimal and functi
 To use themes you should create a new installation based on that theme and then merge or migrate your posts and other custom stuff from the old to the new installation.
 
 Fork your new theme into your Git repository, rename it (click on settings) and name it yourusername.github.io. I choose <a href="https://github.com/poole/hyde">Hyde</a> here, because that one goes well with Jekyll. 
-<p>
+
 <strong>Once done I took the following steps:</strong>
 <ul><li>Removed content in the post directory and copied the _posts/ from the old installation into new directory. Also copy stuff that's in _images/
 <li>Copied also the file "about.md" from the old installation to the new one.</li> 
 <li>If you have made any more customisations, then copy those too into the new directory as well.</li>
 <li>Edit the new _config.yml that came with your new theme to suite your needs</li>
 </ul>
-</p>
+
 <!--
 <h2>Jekyll Bootstrap</h2>
 With Jekyll Bootstrap it's pretty straightforward to change your theme. All you need to do is <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">install it</a>. Dir into the installation and change the theme with this one simple command. 
