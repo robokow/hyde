@@ -23,3 +23,5 @@ This is pretty neat! Without filling in any passwords or username been able to m
 
 <code>git commit -a -m "edit post" && git push origin master
 </code>
+
+<img src="/images/editing-from-terminal.jpg">
