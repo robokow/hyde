@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Distraction free writing!
+tag: [Nothing, Writing, Static Site Generators]
 ---
 
-Writing freely means you just let go, let it flow and let those words come. Loose your inner censor and let those words appear as they come. For that it's essential to have a clean interface that helps you to write freely.
+Writing freely means you just let go, let it flow and let those words come. Lose your inner censor and let those words appear as they come. To do so it's essential to have a clean interface that helps you to write freely. To give you some focus.
 
 ![Just write](/images/just-write.jpg)
 
