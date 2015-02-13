@@ -6,7 +6,8 @@ tags: [Jekyll]
 
 *Markup language* is not new to me. I usually type in plain html but just now I learned I can also use *markdown* language for editing posts in Jekyll, which makes editing and writing text a lot cleaner. So let's make life easier with this new markdown that Jekyll supports. 
 
-![Read the Manual [Photo Credits] (https://www.flickr.com/photos/paulcross/12034282963)](/images/read-the-manual.jpg)
+![Read the Manual](/images/read-the-manual.jpg)
+<div id="caption"><a href="https://www.flickr.com/photos/paulcross/12034282963" target="_blank" rel="nofollow">Photo credit</a></div>
 
 I use a form of markdown on Github as well. But it took quite a while to get my head around it. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff*???*
 

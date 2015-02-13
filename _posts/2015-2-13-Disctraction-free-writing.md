@@ -7,6 +7,7 @@ tag: [Nothing, Writing, Static Site Generators]
 Writing freely means you just let go, let it flow and let those words come. Lose your inner censor and let those words appear as they come. To do so it's essential to have a clean interface that helps you to write freely. To give you some focus.
 
 ![Just write](/images/just-write.jpg)
+<div id="caption"><a href="https://www.flickr.com/photos/danoff/3427826247/" target="_blank" rel="nofollow">Photo credit</a></div>
 
 To write is something else then to read. While writing words and sentences find their shape, but while reading my stuff when it's done, I need see my stuff differently. I must see it published, either on paper or on web. But it must be on an interface that is different than my writing interface.
 
