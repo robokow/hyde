@@ -15,7 +15,7 @@ baseurl:          /
 
 author:		robino robokow
 #  name:           'Mark Otto'
-url:            https://twitter.com/robokow
+url:            /
 
 paginate:         5
 

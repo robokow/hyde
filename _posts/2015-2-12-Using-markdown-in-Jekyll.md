@@ -12,6 +12,8 @@ I use a form of markdown on Github as well. But it took quite a while to get my 
 
 So yeah I am rather lazy; I just do stuff first and only if things break I read the manual (oh sh*). Or I find another way of doing things, only later to return to the same problem that's still waiting to be solved. Maybe then, but only then I start reading the manual.
 
+<!--more-->
+
 ##Testing markdown
 But with time comes maturity and patience to actually read manuals. Hence I find myself reading a manual now about markdown and need some testing. That's why this post, which itself is written with markup, following [this manual](http://daringfireball.net/projects/markdown/). And hey, what does this make life easy! 
 
