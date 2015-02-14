@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+github: [Repository metadata]
 
 # Permalinks
 permalink:        pretty

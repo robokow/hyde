@@ -4,12 +4,12 @@ title: Using markdown language in Jekyll
 tags: [Jekyll]
 ---
 
-*Markup language* is not new to me. I usually type in plain html but just now I learned I can also use *markdown* language for editing posts in Jekyll, which makes editing and writing text a lot cleaner. So let's make life easier with this new markdown that Jekyll supports. 
+*Markup language* is not new to me. I usually type in plain html. But just now I learned I can also use *markdown language* for editing posts in Jekyll, which makes editing and writing text a lot cleaner and easier. So let's make life easier with this new markdown that Jekyll supports. 
 
 ![Read the Manual](/images/read-the-manual.jpg)
 <div id="caption"><a href="https://www.flickr.com/photos/paulcross/12034282963" target="_blank" rel="nofollow">Photo credit</a></div>
 
-I use a form of markdown on Github as well. But it took quite a while to get my head around it. In fact I was like: wait again another way of editing stuff. I use the wiki syntax quite a lot, and html and in the old days other markup-languages, do I have to learn yet another way of writing down stuff*???*
+I use a form of markdown on Github as well. But I was like: again another format to edit stuff? I am used to the wiki syntax as well as html and in the old days other markups, *do I have to learn yet another way of writing down stuff ???*
 
 So yeah I am rather lazy; I just do stuff first and only if things break I read the manual (oh sh*). Or I find another way of doing things, only later to return to the same problem that's still waiting to be solved. Maybe then, but only then I start reading the manual.
 
