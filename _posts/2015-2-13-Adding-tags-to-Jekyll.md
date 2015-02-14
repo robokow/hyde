@@ -14,10 +14,11 @@ Well, that's an easy one but as a beginner it took me some time to figure out. T
 
 That was not easy to figure out for someone who knows little about Liquid. I tried several solutions, but finally got it working when I followed these [instructions](http://charliepark.org/tags-in-jekyll/) and added the code below in my template *post.html* file.
 
+{% raw %}
+	<h2>Tags:</h2> {% for tag in page.tags %} <a href="/tags/{{ tag }}">{{ tag }}</a> {% if forloop.last != true %} {% endif %} {% endfor %}
+{% endraw %}
 
-	<h2>Tags:</h2> {.% for tag in page.tags %} <a href="/tags/{{ tag }}">{{ tag }}</a> {.% if forloop.last != true %} {.% endif %} {.% endfor %}
-
-<p id="caption">When copying, you have to remove the dots before the %</p>
+<p id="caption">{% raw %}{% raw %} :-) {% endraw %}</p>
 
 That did the trick. Things aren't perfect yet though, there is no hyphens between the words of multiple-word-tags and I also noticed a problem with capital letters in my slugs. Also, in order to get the tags working with github pages I also manualy copied the <code>/_site/tags</code> folder into a separate <code>/tags</code> folder at the rootlevel.
 

@@ -2,14 +2,21 @@
 layout: page
 title: About
 permalink: /about/
+image: /images/robino-robokow-google-plus.jpg
 ---
 
 This about page was written from the command line, and pushed to the server in such an easy way that my mind got blown away. I am not a coder. I just like to use Linux since a fairly long time (my first install was in 2003) and I *love* the command line. 
+
+<!--
+{% if page.image %}
+<img src="{{page.image}}" alt="">
+{% endif %}
+-->
 
 Professionally I am an online publisher. I know about marketing. I know a fair bit of css and html. I can read a bit of code and speak the language. But generally I am not such a mathematical mind. I am rather a social geek. And a postconceptualist. Doing comes first. The beauty is the act itself. Only then the concept takes over.
 
 ### Contact
 
-Contact me if you must. See also my <a href="https://robokow.net/about">personal blog</a> if you want to know more about me.
+See also my <a href="https://robokow.net/about">personal blog</a> if you want to know more or contact me.
 
 <img src="/images/robino-robokow-google-plus.jpg" style="max-width:420px;">
