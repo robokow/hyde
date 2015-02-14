@@ -14,3 +14,7 @@ font-style:italic;
 .content img {
 width:100%;
 }
+
+.content h1, h2, h3 {
+text-align:left;
+}
