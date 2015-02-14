@@ -6,7 +6,7 @@ permalink: /about/
 
 This about page was written from the command line, and pushed to the server in such an easy way that my mind got blown away. I am not a coder. I just like to use Linux since a fairly long time (my first install was in 2003) and I *love* the command line. 
 
-Professionally I am an online publisher. I know about marketing. I know a fair bit of css and html. I can read a bit of code and speak the language. But generally I don't have such a great mathematical mind. I am a social geek rather. And a postconceptualist. Doing comes first. The beauty is the act itself. Only then the concept takes over.
+Professionally I am an online publisher. I know about marketing. I know a fair bit of css and html. I can read a bit of code and speak the language. But generally I am not such a mathematical mind. I am rather a social geek. And a postconceptualist. Doing comes first. The beauty is the act itself. Only then the concept takes over.
 
 ### Contact
 
