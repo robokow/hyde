@@ -2,6 +2,7 @@
 layout: post
 title: Using markdown language in Jekyll
 tags: [Jekyll]
+image: /images/read-the-manual.jpg
 ---
 
 *Markup language* is not new to me. I usually type in plain html. But just now I learned I can also use *markdown language* for editing posts in Jekyll, which makes editing and writing text a lot cleaner and easier. So let's make life easier with this new markdown that Jekyll supports. 
@@ -31,7 +32,7 @@ A great way to offer content is by using lists.
 
 * Lists are great
 * In Markdown this is easy 
-* In Html as well but ...  
+* In Html as well but ...
 
 The thing to remind myself is to give a blank space between the paragraph separating the list with the text, or else * the list will * not come.
 
