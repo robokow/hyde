@@ -11,7 +11,7 @@ relative_permalinks: true
 title:            robino 
 tagline:          the nerd came out to play
 description:    the nerd came out to play
-# url:              http://hyde.getpoole.com
+url:              https://robokow.github.io
 baseurl:          /
 
 author:		robino robokow
