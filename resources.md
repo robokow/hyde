@@ -15,10 +15,23 @@ A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I fin
 ###Adding a featured image to Jekyll post 
  * 	Jekyll Tricks   
 	<http://sampedley.com/jekyll-tricks/>
+ *	Getting Started with Skinny Bones (+lots of other configuration)  
+	<http://mmistakes.github.io/skinny-bones-jekyll/getting-started/>
+
 
 ###Adding site-description (seo) to Jekyll post
  * 	Jekyll Tricks   
 	<http://sampedley.com/jekyll-tricks/>
+
+###Adding contact-forms on Jekyll
+ * 	Create a contact form with jekyll   
+	<https://tuananh.org/2015/01/20/how-to-create-a-contact-form-with-jekyll/>
+
+###How to add liquid tags in code-tags and make them visible
+* Escaping double curly braces inside a markdown code block in Jekyll   
+	<http://stackoverflow.com/questions/24102498/escaping-double-curly-braces-inside-a-markdown-code-block-in-jekyll>
+ 
+	
 
 ###The beginning
  *	Blogging Like a Hacker  

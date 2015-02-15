@@ -12,10 +12,14 @@ Well, that's an easy one but as a beginner it took me some time to figure out. T
     tags: [Jekyll]
     ---
 
-That was not easy to figure out for someone who knows little about Liquid. I tried several solutions, but finally got it working when I followed these [instructions](http://charliepark.org/tags-in-jekyll/) and added the code below in my template *post.html* file.
+That was not easy to figure out for someone who knows little about Liquid. I tried several solutions, but finally got it working when I followed these [instructions](http://charliepark.org/tags-in-jekyll/) and added the code below in my template *post.html* file. The styling I copied from [Jekyll Starter](https://github.com/msanand/jekyllstarter/blob/master/assets/css/custom.css).
 
 {% raw %}
-	<h2>Tags:</h2> {% for tag in page.tags %} <a href="/tags/{{ tag }}">{{ tag }}</a> {% if forloop.last != true %} {% endif %} {% endfor %}
+	<ul class="tags">
+  	  {% for tag in page.tags %}
+    	    <li><a href="/tags/{{ tag }}" class="tag">{{ tag }}</a></li>
+  	  {% endfor %}
+	</ul>
 {% endraw %}
 
 <p id="caption">{% raw %}{% raw %} :-) {% endraw %}</p>
