@@ -83,3 +83,8 @@ text-align:left;
 }
 
 /* [END] POST TAGS STYLING*/
+
+.tagpage img {
+float: right;
+    width: 50%;
+}
