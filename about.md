@@ -13,7 +13,10 @@ This about page was written from the command line, and pushed to the server in s
 {% endif %}
 -->
 
-Professionally I am an online publisher. I know about marketing. I know a fair bit of css and html. I can read a bit of code and speak the language. But generally I am not such a mathematical mind. I am rather a social geek. And a postconceptualist. Doing comes first. The beauty is the act itself. Only then the concept takes over.
+Professionally I am my own slave. I am an online publisher and webdeveloper. I build and nurture high quality content-websites. I know how to write, understand search and know a fair bit of css and html. I can read a bit of code and speak the language. But generally I am not such a mathematical mind. I am a Master of Arts. 
+
+<!--
+I like postconceptualism. Doing comes first. The beauty is in the making, the process. Only then the concept takes over, and you frame your creative drive or let go again and move on. Concepts are boring... Move yourself, forget about the money. Drive yourself. -->
 
 ### Contact
 
