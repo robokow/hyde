@@ -12,7 +12,7 @@ title:            robino
 tagline:          the nerd came out to play
 description:    the nerd came out to play
 url:              https://robokow.github.io
-baseurl:          /
+baseurl:          https://robokow.github.io/
 
 author:		robino robokow
 #  name:           'Mark Otto'
