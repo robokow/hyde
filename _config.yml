@@ -11,8 +11,8 @@ relative_permalinks: true
 title:            robino 
 tagline:          the nerd came out to play
 description:    the nerd came out to play
-url:              https://robokow.github.io
-baseurl:          https://robokow.github.io/
+#url:              https://robokow.github.io
+baseurl:         /
 
 author:		robino robokow
 #  name:           'Mark Otto'
