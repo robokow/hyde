@@ -6,7 +6,7 @@ image: /images/jekyllrb-docs-variables-screenshot.jpg
 description: Customising Jekyll is very easy as soon as you grasp Yaml and Liquid. My experience on how you can make use of these powerful tools. 
 ---
 
-Very little I knew about *Liquid*, *Yaml* and *Rubi* until I caught up with Jekyll, the software this website is generated with. A week ago I only had heard of Rubi (I actually have one of its cookbooks) but never did anything with it. Now I am blown away by the ease of use of Yaml and how, together with Liquid, it forms a powerful duo. It makes customising this website dead easy.
+Very little I knew about *Liquid*, *Yaml* and *Rubi* until I caught up with Jekyll, the software this website is generated with. Up until a week ago I only had heard of Rubi (I actually have one of its cookbooks) but never did anything with it. Now I am blown away by the ease of use of Yaml and how, together with Liquid, it forms a powerful duo. It makes customising this website dead easy.
 
 	---
 	layout: post
