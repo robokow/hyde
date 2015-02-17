@@ -4,7 +4,7 @@ title: Resources
 permalink: /jekyll-resources/
 ---
 
-A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I find useful while building this site.
+A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I find useful while building Jekyll websites
 
 ###Async loading CSS / Increase Pagespeed loading
  * 	Becoming a Jekyll God  
@@ -29,14 +29,17 @@ A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I fin
 
 ###Redirect Github Pages to use their ssl connection
  *	Defaulting to HTTPS & Forcing a redirect   
-	https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it
+	<https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it>
 
 ###How to add liquid tags in code-tags and make them visible
 * Escaping double curly braces inside a markdown code block in Jekyll   
 	<http://stackoverflow.com/questions/24102498/escaping-double-curly-braces-inside-a-markdown-code-block-in-jekyll>
  
-	
-
+### Export Wordpress Blog Plugin/ Jekyll Import Plugin
+* Export Your WordPress Blog to Jekyll with One Click   
+	<http://wptavern.com/export-your-wordpress-blog-to-jekyll-with-one-click>
+	<https://wordpress.org/plugins/jekyll-exporter/>
+		
 ###The beginning
  *	Blogging Like a Hacker  
 	<http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html>
