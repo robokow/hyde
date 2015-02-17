@@ -17,7 +17,7 @@ Very little I knew about *Liquid*, *Yaml* and *Rubi* until I caught up with Jeky
 	---
 <p id="caption">Jekyll frontmatter styled with Yaml</p>
 
-At first when I was reading into Jekyll I had no clue about Yaml, let alone what was meant with the term "[frontmatter](http://jekyllrb.com/docs/frontmatter/)". Now I do know. It's a basic way to define all sorts of variables for the post that I am writing. These [variables](http://jekyllrb.com/docs/variables/) you can easily pull into your posts and sites with Liquid. 
+At first when I was reading into Jekyll I had no clue about Yaml, let alone what was meant with the term "[frontmatter](http://jekyllrb.com/docs/frontmatter/)". Now I do know. It's a basic way to define all sorts of variables for the post that I am writing. These [variables](http://jekyllrb.com/docs/variables/) you can easily pull into your posts and sites with Liquid.
 
 >The front matter is where Jekyll starts to get really cool.
 
@@ -28,6 +28,7 @@ There is also other stuff that can go into the Yaml front-matter, such as a site
 But the Yaml front-matter is not much without Liquid. It's with Liquid that you pull the frontmatter into the posts and into the layouts. It takes me some time to figure out how to do this (especially as a non-coder) but its power is very clear to me. In any case, even setting these [custom variables](http://jekyllrb.com/docs/frontmatter/#custom-variables) is not hard to understand. Your key is Yaml if you want to master Jekyll.
 
 *Further reading:* 
+
  * <http://sampedley.com/jekyll-tricks/>
  * <http://jekyllrb.com/docs/frontmatter/> 
 
