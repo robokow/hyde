@@ -10,7 +10,7 @@ For a new project website I decided to use a Jekyll installation with a theme th
 
 ![The Grunt is very powerful](/images/grunt.jpg)
 
-<!--read more-->
+<!-- read more -->
 
 So far so good. But when rendering the site I was surprised seeing the filesize of the css-output; it was over 200kb big. For the project I was working on, that was way too big. It would take about 80% of the total bandwidth for a single pageload.
 
