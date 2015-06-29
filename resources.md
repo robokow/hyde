@@ -7,6 +7,8 @@ permalink: /jekyll-resources/
 A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I find useful while building Jekyll websites
 
 ###Async loading CSS / Increase Pagespeed loading
+ *	Performant Websites with Jekyll, Grunt, GitHub Pages, and CloudFlare
+	<http://davidensinger.com/2015/01/performant-websites-with-jekyll-grunt-github-pages-and-cloudflare/>
  * 	Becoming a Jekyll God  
 	<https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771>
  *	Inline SCSS with Jekyll and GitHub Pages  
