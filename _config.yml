@@ -4,7 +4,7 @@ highlighter:      pygments
 github: [Repository metadata]
 
 # Permalinks
-permalink:        jekyll/:categories/:year/:title
+permalink:        /:categories/:year/:title
 relative_permalinks: true
 
 # Setup

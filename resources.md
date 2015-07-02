@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /jekyll/jekyll-resources/
+permalink: /jekyll-resources/
 ---
 
 A list of articles and resources about [Jekyll](http://jekyllrb.com/) that I find useful while building Jekyll websites
