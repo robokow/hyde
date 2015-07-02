@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /jekyll/about/
+permalink: /about/
 image: /images/robino-robokow-google-plus.jpg
 ---
 

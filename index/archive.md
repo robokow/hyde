@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /jekyll/archive/
+permalink: /archive/
 ---
 
 <div class="page-archive">
@@ -14,7 +14,7 @@ permalink: /jekyll/archive/
     </h3>
   {% endif %}
   <p>
-    <a href="{{ post.url }}" class="post-title-archive">{{ post.title }}</a>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="post-title-archive">{{ post.title }}</a>
     <small class="text-muted">{{ post.date | date_to_string }}</small>
   </p>
 {% endfor %}

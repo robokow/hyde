@@ -4,8 +4,8 @@ highlighter:      pygments
 github: [Repository metadata]
 
 # Permalinks
-permalink:        jekyll/:year/:title
-#permalink:        /:year/:title
+#permalink:        jekyll/:year/:title
+permalink:        /:year/:title
 relative_permalinks: false
 
 # Setup
@@ -13,7 +13,7 @@ title:            robino
 tagline:          the nerd came out to play
 description:    the nerd came out to play
 #url:            
-#baseurl:         /jekyll
+baseurl:         /jekyll
 
 author:		robino robokow
 #  name:           'Mark Otto'
