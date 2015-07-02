@@ -1,30 +1,25 @@
 ---
 layout: page
 title: About
+permalink: /about/
+image: /images/robino-robokow-google-plus.jpg
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This about page was written from the command line, and pushed to the server in such an easy way that my mind got blown away. I am not a coder. I just like to use Linux since a fairly long time (my first install was in 2003) and I *love* the command line. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<!--
+{% if page.image %}
+<img src="{{page.image}}" alt="">
+{% endif %}
+-->
 
-There are currently two themes built on Poole:
+Professionally I am an online publisher and webdeveloper. I build and nurture high quality content-websites. I know how to write, understand search and know a fair bit of css and html. I can read a bit of code and speak the language. But generally I am not such a mathematical mind. I am a Master of Arts. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<!-- oh well.
+I like postconceptualism. Doing comes first. The beauty is in the making, the process. Only then the concept takes over, and you frame your creative drive or let go again and move on. Concepts are boring... Move yourself, forget about the money. Drive yourself. -->
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Contact
 
-## Setup
+See also my <a href="https://robokow.net/about">personal blog</a> if you want to know more or contact me.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<img src="/images/robino-robokow-google-plus.jpg" style="max-width:420px;">

@@ -1,26 +1,51 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+github: [Repository metadata]
 
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:year/:title
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            robino 
+tagline:          the nerd came out to play
+description:    the nerd came out to play
+url:              https://robokow.github.io
+baseurl:         /jekyll
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+author:		robino robokow
+#  name:           'Mark Otto'
+url:            /
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:	
+#  repo:           https://github.com/robokow/robokow.github.io
+
+# Site owner
+owner:
+  name: Robino
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: robokow
+  facebook: #username
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: robino
+  tumblr: #username
+  google:
+    plus: +robinorobokow
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
+
+
