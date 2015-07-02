@@ -5,7 +5,8 @@ github: [Repository metadata]
 
 # Permalinks
 permalink:        jekyll/:year/:title
-#relative_permalinks: true
+#permalink:        /:year/:title
+relative_permalinks: false
 
 # Setup
 title:            robino 
