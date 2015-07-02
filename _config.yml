@@ -4,15 +4,15 @@ highlighter:      pygments
 github: [Repository metadata]
 
 # Permalinks
-permalink:        :categories/:year/:title
-relative_permalinks: true
+permalink:        jekyll/:year/:title
+#relative_permalinks: true
 
 # Setup
 title:            robino 
 tagline:          the nerd came out to play
 description:    the nerd came out to play
-#url:              http://robino.co/jekyll
-baseurl:         /jekyll
+#url:            
+#baseurl:         /jekyll
 
 author:		robino robokow
 #  name:           'Mark Otto'
@@ -47,5 +47,3 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
-
-
