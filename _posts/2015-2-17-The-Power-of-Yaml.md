@@ -2,7 +2,7 @@
 layout: post
 title: The Power of Yaml
 tags: [Jekyll, Yaml, Liquid]
-image: /images/jekyllrb-docs-variables-screenshot.jpg
+image: /jekyll/images/jekyllrb-docs-variables-screenshot.jpg
 description: Customising Jekyll is very easy as soon as you grasp Yaml and Liquid. My experience on how you can make use of these powerful tools. 
 ---
 

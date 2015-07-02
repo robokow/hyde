@@ -2,12 +2,12 @@
 layout: post
 title: How to change Jekyll theme
 tags: [Jekyll]
-image: /images/changing-themes-jekyll.jpg
+image: /jekyll/images/changing-themes-jekyll.jpg
 ---
 
 So you just installed Jekyll and got your blog running through the <a href="https://pages.github.com/">github pages</a>. But how can you change the site's layout or theme? One approach that works is to fork the new theme you want, rename it into username.github.io, and then copy from your previous installation your old posts, images and other custom content that you would like to maintain.
 
-![Changing themes at Jekyll](/images/changing-themes-jekyll.jpg)
+![Changing themes at Jekyll]({{ site.baseurl }}/images/changing-themes-jekyll.jpg)
 
 <!--more-->
 
@@ -16,7 +16,7 @@ There is all kinds of nice Jekyll themes, most of them clean, minimal and functi
 
 ###Requirements
  * Make sure you've got Jekyll <a href="http://jekyllrb.com/docs/installation/">installed</a>.
- * For easy testing type <code>jekkyl serve</code> in your terminal and see it at <a href="http://localhost:4000">localhost:4000</a> to know you've got your site working locally.
+ * For easy testing type <code>jekyll serve</code> in your terminal and see it at <a href="http://localhost:4000">localhost:4000</a> to know you've got your site working locally.
 
 ##Make a new installation
 To use themes there is a couple of ways. One way is to make a new installation based on that theme and then merge or migrate your posts and other custom stuff from the old to the new installation.
@@ -34,7 +34,6 @@ With Jekyll Bootstrap it's pretty straightforward to change your theme. All you 
 <code><a href="https://rubygems.org/gems/rake">rake</a> theme:install git="https://github.com/jekyllbootstrap/theme-the-minimum.git" --trace</code>
 
 There is not many <a href="http://themes.jekyllbootstrap.com/">themes on bootstrap</a> (yet) but its ease of use is really nice. And of course, you can also clone existing themes and make them <a href="http://jekyllbootstrap.com/api/theme-api.html">available</a> for Bootstrap yourself.
-
 
 (<small>note: It is at this point that I encounter <a href="http://ruhoh.com/">http://ruhoh.com/</a> which seems to be a lot easier to deploy with different themes</small>)
 

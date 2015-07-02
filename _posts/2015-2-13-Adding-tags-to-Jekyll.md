@@ -2,7 +2,7 @@
 layout: post
 title: Adding tags to Jekyll
 tags: [Jekyll]
-image: /images/make-tags-visible-in-posts-jekyll.jpg
+image: /jekyll/images/make-tags-visible-in-posts-jekyll.jpg
 ---
 
 Well, that's an easy one but as a beginner it took me some time to figure out. To add a tag simply at the existing [Yaml data](http://jekyllrb.com/docs/frontmatter/) on top of the post. See the codebox below. This ease of use was a mind-blower to me. But my main question remained: how to show the tag on the rendered posts?

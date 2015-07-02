@@ -2,13 +2,13 @@
 layout: post
 title: Bring out the Grunt
 tags: [Jekyll, Grunt, CSS]
-image: /images/grunt.jpg
+image: /jekyll/images/grunt.jpg
 description: Unused CSS can make loading your website slow. Grunt can do the job for you to strip your css files into one small one. Using grunt with Jekyll. 
 ---
 
 For a new project website I decided to use a Jekyll installation with a theme that I liked: [Shiori](http://ellekasai.github.io/shiori/). I started in the usual way, importing the posts into the _posts directory, editing the _config file in the root file, and customizing the theme to my liking: changing its colors, navigation and sidebar. 
 
-![The Grunt is very powerful](/images/grunt.jpg)
+![The Grunt is very powerful]({{ site.baseurl }}/images/grunt.jpg)
 
 <!-- read more -->
 
