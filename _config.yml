@@ -4,15 +4,15 @@ highlighter:      pygments
 github: [Repository metadata]
 
 # Permalinks
-permalink:        /:categories/:title
+permalink:        /:categories/:year/:title
 relative_permalinks: true
 
 # Setup
 title:            robino 
 tagline:          the nerd came out to play
 description:    the nerd came out to play
-#url:              https://robokow.github.io
-baseurl:         /tech
+url:              https://robokow.github.io
+baseurl:         /
 
 author:		robino robokow
 #  name:           'Mark Otto'
