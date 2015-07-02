@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /archive/
+permalink: /jekyll/archive/
 ---
 
 <div class="page-archive">
